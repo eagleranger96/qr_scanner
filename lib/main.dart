@@ -94,7 +94,7 @@ class _MyAppState extends State<MyApp> {
                   SnackBar(
                     duration: Duration(seconds: 2),
                     content: Text(
-                      "Press back again to continue",
+                      "Press back again to exit",
                       textAlign: TextAlign.center,
                     ),
                   ),

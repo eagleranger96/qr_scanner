@@ -33,6 +33,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 * [Flutter](flutter.dev) - Open-source mobile application development framework created by Google.
 
+## Versioning
+
+We use [SemVer](https://semver.org/) for versioning. Latest release version is v1.0.1
+
 ## Authors
 
 * [**Varun Dwivedi**](https://github.com/eagleranger96)
